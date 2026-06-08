@@ -23,8 +23,12 @@ Aplikasi ini adalah platform blog dinamis yang dibangun menggunakan framework La
 
 - Pastikan aplikasi **Laragon** (layanan Apache dan MySQL) sudah berjalan aktif.
 - PHP versi >= 8.2 dan Composer sudah terpasang di perangkat Anda.
-- composer install
-- npm install
+
+```powershell
+composer install
+npm install
+```
+
 - Pastikan database nya sesuai dengan source code di file .env
 - clone file .env.example ganti menjadi .env saja
 - php artisan serve (untuk menjalankan dan mengetahui demo nya)
