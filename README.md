@@ -8,7 +8,7 @@ Proyek ini dikembangkan untuk memenuhi syarat Ujian Akhir Semester (UAS) mata ku
 - **NIM:** 240605110063
 - **Dosen Pengampu:** A’la Syauqi M.Kom.
 - **Proyek Akademik:** Proyek Aplikasi Blog (UAS Genap 2025/2026)
-- **Tautan Video Demonstrasi (YouTube):** [CMS](https://youtu.be/1yE2OP9LsHs)
+- **Tautan Video Demonstrasi (YouTube):** [Sistem Manajemen Blog (CMS)](https://youtu.be/1yE2OP9LsHs)
 
 ## Deskripsi Aplikasi
 
