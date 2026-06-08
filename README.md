@@ -29,9 +29,12 @@ Aplikasi ini adalah platform blog dinamis yang dibangun menggunakan framework La
 - clone file .env.example ganti menjadi .env saja
 - php artisan serve (untuk menjalankan dan mengetahui demo nya)
 - ketika sudah di edit file nya jangan lupa
-('php artisan route:clear')
-('php artisan view:clear')
-('php artisan cache:clear')
+
+```powershell
+php artisan route:clear
+php artisan view:clear
+php artisan cache:clear
+```
 
 ### 2. Kloning Repositori
 
